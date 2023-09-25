@@ -1,0 +1,19 @@
+section#html, section#html-dois  {
+    /*border: 01px solid blue;*/
+    width: 40%;
+    margin-left: 5%;
+    height: 250px;
+    float: left;
+    border-radius: 5px;
+    box-shadow: 2px 2px 15px #cccccc;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+  
+}
+section#html-dois {
+    margin-top: 2%;
+    width: 89%;
+     
+    
+}

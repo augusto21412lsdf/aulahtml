@@ -1,0 +1,13 @@
+
+section#html-dois img , section#html img {
+    width: 100px;
+    height: 100px;
+}
+
+div#topo img{
+
+    float: right;
+    width: 70px;
+    height: 70px;
+}
+

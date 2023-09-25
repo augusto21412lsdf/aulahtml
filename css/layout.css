@@ -1,0 +1,40 @@
+*{
+padding: 0px 0px 0px 0px;
+margin: 0px  0px 0px  0px;
+}
+
+
+#conteudoGeral{
+
+    /*border:01px solid red;*/
+    width: 100%;
+    height: 900px;
+}
+#topo{
+    /*border:01px solid red;*/
+    width: 100%;
+    height: 70px;
+    background-color: #0000cc;
+}
+#topo h1 {
+    color: red;
+    text-transform: uppercase;
+    /*padding-top:  1%;*/
+    display: inline;
+}
+
+#menu{
+    /*border:01px solid red;*/
+    width: 100%;
+    height: 40px;
+}
+#conteudo{
+    /*border:01px solid red;*/
+    width: 100%;
+    height: 500px;
+}
+#rodape{
+    border:01px solid red;
+    width: 100%;
+    height: 30px;
+}

@@ -1,0 +1,36 @@
+ section#formulario {
+    /*border: 1px solid red;*/
+    width: 500px;
+    height: 500px;
+    
+}
+section#formulario form#frmContato input, 
+section#formulario form#frmContato button,
+section#formulario form#frmContato textarea
+{
+    display: block;
+    margin-top: 2%; 
+    margin-left: 2%;
+    width: 50%;
+    height: 40px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 15px black;
+    background-color:  #ff99ff
+        
+        
+}
+section#formulario fieldset {
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 2px 2px 3px black;
+    padding-bottom: 2%; 
+}
+section#formulario fieldset legend {
+    text-transform: uppercase;
+   
+}
+
+    
+  
+   
+
+
